@@ -1,0 +1,15 @@
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_10HW\Examples\Ex01\bin\Debug\net6.0\Ex01.exe
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_10HW\Examples\Ex01\bin\Debug\net6.0\Ex01.deps.json
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_10HW\Examples\Ex01\bin\Debug\net6.0\Ex01.runtimeconfig.json
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_10HW\Examples\Ex01\bin\Debug\net6.0\Ex01.dll
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_10HW\Examples\Ex01\bin\Debug\net6.0\Ex01.pdb
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_10HW\Examples\Ex01\obj\Debug\net6.0\Ex01.csproj.AssemblyReference.cache
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_10HW\Examples\Ex01\obj\Debug\net6.0\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_10HW\Examples\Ex01\obj\Debug\net6.0\Ex01.AssemblyInfoInputs.cache
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_10HW\Examples\Ex01\obj\Debug\net6.0\Ex01.AssemblyInfo.cs
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_10HW\Examples\Ex01\obj\Debug\net6.0\Ex01.csproj.CoreCompileInputs.cache
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_10HW\Examples\Ex01\obj\Debug\net6.0\Ex01.dll
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_10HW\Examples\Ex01\obj\Debug\net6.0\refint\Ex01.dll
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_10HW\Examples\Ex01\obj\Debug\net6.0\Ex01.pdb
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_10HW\Examples\Ex01\obj\Debug\net6.0\Ex01.genruntimeconfig.cache
+C:\Users\Bespalchuk_V_N\Desktop\Seminar_10HW\Examples\Ex01\obj\Debug\net6.0\ref\Ex01.dll
